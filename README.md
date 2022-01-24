@@ -6,7 +6,7 @@ The server and client parts are implemented.
 ## Technical stack, technologies
 
 - Python 3.10
-- Djang
+- Django
 - HTML, CSS
 - Sqlite3
 
